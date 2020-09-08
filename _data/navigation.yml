@@ -1,0 +1,27 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Research"
+    url: /research/
+  - title: "Contact"
+    url: /contact/
+
+
+research:
+  - title: Research
+    children:
+      - title: "Surface-Subsurface Information"
+        url: /research/surf-sub
+      - title: "Passive Particle Simulation"
+        url: /research/particles
+      - title: "pyDeltaRCM"
+        url: /research/pydeltarcm
+      - title: "Measuring Delta Metrics"
+        url: /research/delta-metrics
+      - title: "Graph Extraction From Channels"
+        url: /research/graphs
+      #- title: "Effect of Embankments on Deltas"
+      #  url: /research/polders
+      #- title: "Effect of Sea Level Rise on Subsurface Connectivity"
+      #  url: /research/sea-level-rise

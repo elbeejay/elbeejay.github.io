@@ -1,0 +1,1 @@
+Personal website. Made with [Jekyll](https://jekyllrb.com/) using the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme with modifications based off of [this repository](https://github.com/sestus/mikemylonakis.com).

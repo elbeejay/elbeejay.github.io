@@ -256,6 +256,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  tidbits:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -272,6 +275,18 @@ defaults:
       comments: false
       sidebar:
         nav: "research"
+  # _tidbits
+  - scope:
+      path: ""
+      type: tidbits
+    values:
+      layout: single
+      read_time: false
+      author_profile: true
+      share: false
+      comments: false
+      sidebar:
+        nav: "tidbits"
 
 # Mike (from https://github.com/sestus/mikemylonakis.com)
 typed_lines:

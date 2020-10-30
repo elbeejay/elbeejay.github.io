@@ -1,10 +1,31 @@
 ---
-title:  "Passive Particle Simulation"
+title:  "Particle Simulation with *dorado*"
 permalink: /research/particles/
-excerpt: "Simulating the transport of passive particles"
+excerpt: "Development of an open-source software package for simulating passive particle transport."
 header:
-    #image: /assets/images/construction.png
-    teaser: /assets/images/construction.png
+    #image: /assets/images/particles/logo.gif
+    teaser: /assets/images/particles/logo.gif
 ---
 
-Under construction.
+| ![Particles moving step-wise](/assets/images/particles/logo.gif) |
+|:--:|
+| Particles moving in 'step-like' iterations through a stream. |
+
+*dorado* is an open-source Python package developed for the purpose of simulating
+passive particle transport in landscape-scale systems. The software was written to
+be flexible and compatible with outputs from any shallow-water hydrodynamic
+model.
+
+To learn more about the background behind the method, how to install the package,
+and how to use it, please refer to the project's
+[documentation](https://passah2o.github.io/dorado/).
+If you wish to look at the
+code directly, the source code is available at our [GitHub repository](https://github.com/passaH2O/dorado).
+
+This work has also been
+published as an article in the Journal of Open Source Software, available
+[here](https://joss.theoj.org/papers/10.21105/joss.02585).
+
+| ![Particles moving in-sync temporally](/assets/images/particles/waxlake.gif) |
+|:--:|
+| Particles moving synchronously in time during fluctuating tides. |

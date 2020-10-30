@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Research"
     url: /research/
+  - title: "Tidbits"
+    url: /tidbits/
   - title: "Contact"
     url: /contact/
 
@@ -25,3 +27,9 @@ research:
       #  url: /research/polders
       #- title: "Effect of Sea Level Rise on Subsurface Connectivity"
       #  url: /research/sea-level-rise
+
+tidbits:
+  - title: Tidbits
+    children:
+      - title: "Using Python to Download Imagery from Google Earth Engine"
+        url: /tidbits/pygee

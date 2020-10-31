@@ -1,13 +1,13 @@
 ---
 title: "Python + Google Earth Engine"
 permalink: /tidbits/pygee/
-excerpt: "Small Python Library for Automated Google Earth Engine Scene Acquisition."
+excerpt: "py_gee_tools: A Small Python Library for Automated Google Earth Engine Scene Acquisition."
 header:
     #image: /assets/images/construction.png
     teaser: /assets/images/pygee/logo.png
 ---
 
-This is a small project in which a helper Python package was created to work
+*py_gee_tools* is a small project in which a helper Python package was created to work
 with the [Python Google Earth Engine API](https://github.com/google/earthengine-api).
 The goal is to simplify and automate image acquisition from Google Earth Engine.
 

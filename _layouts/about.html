@@ -33,7 +33,6 @@ layout: default
       {% elsif page.date %}
       <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
       {% endif %}
-      Say hi on <a rel="me" href="https://fosstodon.org/@elbeejay">Mastodon</a> or <a rel="me" href="https://twitter.com/HariharanJay">Twitter</a>
     </footer>
   </div>
 </div>

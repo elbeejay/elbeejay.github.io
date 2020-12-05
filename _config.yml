@@ -71,6 +71,7 @@ social:
     - "https://www.linkedin.com/in/jayaram-hariharan/"
     - "https://twitter.com/HariharanJay"
     - "https://github.com/elbeejay"
+    - "https://fosstodon.org/@elbeejay"
 
 # Analytics
 analytics:
@@ -97,6 +98,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/HariharanJay"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: https://fosstodon.org/@elbeejay
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/jayaram-hariharan/"
@@ -114,8 +118,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/elbeejay"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/HariharanJay"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: https://fosstodon.org/@elbeejay
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/jayaram-hariharan/"

@@ -1,0 +1,33 @@
+---
+title: "Painting"
+permalink: /tidbits/painting/
+excerpt: "Some artwork I've made"
+header:
+    #image: /assets/images/construction.png
+    teaser: /assets/images/painting/logo.png
+---
+
+As a hobby, I've done some (mostly geometric) painting.
+Below are a few of the pieces I've created.
+
+| ![First Painting](/assets/images/painting/first.jpg) |
+|:--:|
+| An early piece. Canvas. |
+
+&nbsp;
+
+| ![Later Painting](/assets/images/painting/later.jpg) |
+|:--:|
+| A later, more refined piece. Canvas. |
+
+&nbsp;
+
+| ![Pair of Paintings](/assets/images/painting/two_set.jpg) |
+|:--:|
+| A paired set of paintings. Canvas. |
+
+&nbsp;
+
+| ![Accent Wall](/assets/images/painting/room.jpg) |
+|:--:|
+| An accent wall. Drywall. |

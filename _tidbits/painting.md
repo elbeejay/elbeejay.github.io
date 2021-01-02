@@ -31,3 +31,12 @@ Below are a few of the pieces I've created.
 | ![Accent Wall](/assets/images/painting/room.jpg) |
 |:--:|
 | An accent wall. Drywall. |
+
+&nbsp;
+
+Section logo images pulled from [GIMP](https://www.gimp.org/) internal image files.
+GIMP is a free and open source image editing software.
+
+I'll happily create custom paintings upon request.
+To commission a piece, please send an email to
+[painter@jayaramhariharan.com](mailto:painter@jayaramhariharan.com)

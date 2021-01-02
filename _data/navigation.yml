@@ -13,15 +13,15 @@ main:
 research:
   - title: Research
     children:
-      - title: "Surface-Subsurface Information"
-        url: /research/surf-sub
-      - title: "Passive Particle Simulation"
+      #- title: "Surface-Subsurface Information"
+      #  url: /research/surf-sub
+      - title: "Particle Simulation with dorado"
         url: /research/particles
-      - title: "pyDeltaRCM"
-        url: /research/pydeltarcm
-      - title: "Measuring Delta Metrics"
-        url: /research/delta-metrics
-      - title: "Graph Extraction From Channels"
+      #- title: "pyDeltaRCM"
+      #  url: /research/pydeltarcm
+      #- title: "Measuring Delta Metrics"
+      #  url: /research/delta-metrics
+      - title: "Graph Extraction with RivGraph"
         url: /research/graphs
       #- title: "Effect of Embankments on Deltas"
       #  url: /research/polders
@@ -31,5 +31,11 @@ research:
 tidbits:
   - title: Tidbits
     children:
-      - title: "Using Python to Download Imagery from Google Earth Engine"
+      - title: "Crochet"
+        url: /tidbits/crochet
+      - title: "Painting"
+        url: /tidbits/painting
+      - title: "Python + Google Earth Engine"
         url: /tidbits/pygee
+      - title: "Building This Website"
+        url: /tidbits/this-website

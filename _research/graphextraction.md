@@ -21,3 +21,6 @@ For more on what *RivGraph* can do, as well as some example code, check out
 the project's [documentation](https://jonschwenk.github.io/RivGraph/).
 If you'd like to look at the source code, it is available on
 [GitHub](https://github.com/jonschwenk/RivGraph).
+
+This work has also been published as an article in the Journal of Open Source
+Software, available [here](https://joss.theoj.org/papers/10.21105/joss.02952).

@@ -24,3 +24,6 @@ If you'd like to look at the source code, it is available on
 
 This work has also been published as an article in the Journal of Open Source
 Software, available [here](https://joss.theoj.org/papers/10.21105/joss.02952).
+The development team behind *RivGraph* currently includes
+[Jon Schwenk](https://scholar.google.com/citations?user=qHp30JkAAAAJ&hl=en&oi=ao)
+and me.

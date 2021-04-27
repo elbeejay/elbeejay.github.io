@@ -106,7 +106,7 @@ author:
       url: "https://www.linkedin.com/in/jayaram-hariharan/"
     - label: "Curriculum Vitae (PDF)"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/files/jhariharan_resume.pdf"
+      url: "/assets/files/jhariharan_cv.pdf"
 
 # Site Footer
 footer:
@@ -128,7 +128,7 @@ footer:
       url: "https://www.linkedin.com/in/jayaram-hariharan/"
     - label: "Curriculum Vitae (PDF)"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/files/jhariharan_resume.pdf"
+      url: "/assets/files/jhariharan_cv.pdf"
 
 
 # Reading Files

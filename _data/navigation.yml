@@ -17,10 +17,10 @@ research:
       #  url: /research/surf-sub
       - title: "Particle Simulation with dorado"
         url: /research/particles
-      #- title: "pyDeltaRCM"
-      #  url: /research/pydeltarcm
-      #- title: "Measuring Delta Metrics"
-      #  url: /research/delta-metrics
+      - title: "Modernizing DeltaRCM"
+        url: /research/pydeltarcm
+      - title: "Delta Metrics"
+        url: /research/delta-metrics
       - title: "Graph Extraction with RivGraph"
         url: /research/graphs
       #- title: "Effect of Embankments on Deltas"
@@ -39,3 +39,7 @@ tidbits:
         url: /tidbits/pygee
       - title: "Building This Website"
         url: /tidbits/this-website
+      - title: "Combining Model Meshes"
+        url: /tidbits/mesh
+      - title: "Surface Water Detection"
+        url: /tidbits/surfwater

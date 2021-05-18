@@ -43,3 +43,5 @@ tidbits:
         url: /tidbits/mesh
       - title: "Surface Water Detection"
         url: /tidbits/surfwater
+      - title: "Austin Prop. B Election Map"
+        url: /tidbits/atx-map

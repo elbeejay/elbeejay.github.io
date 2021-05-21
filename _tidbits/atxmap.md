@@ -23,7 +23,7 @@ In this map the color of the precincts depicts the percentage of the vote
 "For" Prop. B in the 2021 election.
 The gray polygons are regions where the automated scraping was unable to
 associate any voting information to the precinct.
-From the north-west running to the south-west the Lower Colorado River
+From the north-west running to the south-east the Lower Colorado River
 is shown in light black.
 Even lighter still, the railroad lines are shown as faint dot-dash lines
 that can be seen running north-south through the city.

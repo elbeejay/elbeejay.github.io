@@ -31,6 +31,12 @@ algorithm and its development
 |:--:|
 | Animation of surface water extents as identified by DeepWaterMap |
 
+This process is applied to the Pearl River Delta in the below image. The composite Landsat image for each year is on the left, and the surface water extents are shown on the right. The blue number in the bottom-right corner is the percentage of the scene identified as surface water.
+
+| ![Water Maps](/assets/images/gbmd/pearl_combined.gif) |
+|:--:|
+| Animation of Landsat imagery and surface water extents for the Pearl River Delta |
+
 Landsat imagery and DeepWaterMap results were manipulated and animated using
 the open-source tools [GDAL](https://gdal.org/),
 [pillow](https://python-pillow.org/),

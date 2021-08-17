@@ -13,8 +13,8 @@ main:
 research:
   - title: Research
     children:
-      #- title: "Surface-Subsurface Information"
-      #  url: /research/surf-sub
+      - title: "Delta Surface-Subsurface"
+        url: /research/surf-sub
       - title: "Particle Simulation with dorado"
         url: /research/particles
       - title: "Modernizing DeltaRCM"

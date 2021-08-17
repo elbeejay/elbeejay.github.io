@@ -3,9 +3,13 @@ title:  "Modernizing DeltaRCM"
 permalink: /research/pydeltarcm/
 excerpt: "Making DeltaRCM modern and modular"
 header:
-    #image: /assets/images/construction.png
+    #image: /assets/images/pydeltarcm/logo.png
     teaser: /assets/images/pydeltarcm/logo.png
 ---
+
+| ![Example Model](/assets/images/pydeltarcm/logo.png) |
+|:--:|
+| Example model topography with overlaid reduced-complexity "parcels" paths |
 
 *pyDeltaRCM* is a documented, tested, and modular version of the popular
 *DeltaRCM* model [[1](https://esurf.copernicus.org/articles/3/67/2015/),

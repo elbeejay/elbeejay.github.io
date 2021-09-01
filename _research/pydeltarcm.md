@@ -14,14 +14,13 @@ header:
 *pyDeltaRCM* is a documented, tested, and modular version of the popular
 *DeltaRCM* model [[1](https://esurf.copernicus.org/articles/3/67/2015/),
 [2](https://esurf.copernicus.org/articles/3/87/2015/)].
-*pyDeltaRCM* is currently under development, but greatly speeds up the
-reduced-complexity approach to river delta modeling established in the
-original *DeltaRCM*. This speed-up is made possible through the use of
-"jitted" methods. *pyDeltaRCM* also enables reproducibility with methods to
-record and maintain the random-seed used for a given model.
+*pyDeltaRCM* implements a faster version of the reduced-complexity approach
+to river delta modeling established in the original *DeltaRCM* model.
+*pyDeltaRCM* also enables reproducibility by automatically recording the
+random-seed used to generate a given model output.
 Furthermore, the use of Python makes this new model open-source and accessible.
 Splitting the model into different components in an object-oriented framework
-makes the model makes customization easy via subclasses and hooks.
+has made the code customizable via subclasses and hooks.
 
 For more about this project, refer to the
 [documentation](https://deltarcm.org/pyDeltaRCM/) or the
@@ -31,3 +30,10 @@ contributors to this effort.
 Currently the project is being developed by
 [Andrew Moodie](https://andrewjmoodie.com/),
 [Eric Barefoot](http://ericbarefoot.com/), and me.
+
+### Publications
+---
+
+<font size="3">
+Moodie, A. J., Hariharan, J., Barefoot, E., & Passalacqua, P. (2021). <i>pyDeltaRCM</i>: a flexible numerical delta model. Journal of Open Source Software, 6(64), 3398. <a href="https://doi.org/10.21105/joss.03398">https://doi.org/10.21105/joss.03398</a>
+</font>

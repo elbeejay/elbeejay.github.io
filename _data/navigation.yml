@@ -45,3 +45,5 @@ tidbits:
         url: /tidbits/surfwater
       - title: "Austin Prop. B Election Map"
         url: /tidbits/atx-map
+      - title: "Raspberry Pi Bramble"
+        url: /tidbits/rpibramble

@@ -26,5 +26,5 @@ If you'd like to look at the source code, it is available on
 ---
 
 <font size="3">
-Schwenk, J., & Hariharan, J. (2021). RivGraph: Automatic extraction and analysis of river and delta channel network topology. Journal of Open Source Software, 6(59), 2952. <a href="https://doi.org/10.21105/joss.02952">https://doi.org/10.21105/joss.02952</a>
+Schwenk, J. & Hariharan, J. (2021). RivGraph: Automatic extraction and analysis of river and delta channel network topology. Journal of Open Source Software, 6(59), 2952. <a href="https://doi.org/10.21105/joss.02952">https://doi.org/10.21105/joss.02952</a>
 </font>

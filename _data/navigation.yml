@@ -8,6 +8,8 @@ main:
     url: /tidbits/
   - title: "Contact"
     url: /contact/
+  - title: "Advice"
+    url: /advice/
 
 
 research:
@@ -47,3 +49,9 @@ tidbits:
         url: /tidbits/atx-map
       - title: "Raspberry Pi Bramble"
         url: /tidbits/rpibramble
+
+advice-sidebar:
+  - title: "Advice By Jay"
+    children:
+      - title: "2021-12-01"
+        url: /advice/2021-12-01

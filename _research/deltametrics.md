@@ -23,3 +23,10 @@ The project is still very much in an experimental stage, but the evolving
 [source code](https://github.com/DeltaRCM/DeltaMetrics) are open-source and
 available. Like all open-source projects we welcome anyone that is interested
 to develop something new and contribute to the project!
+
+### In Other Media
+---
+
+<font size="3">
+"Building Modern Tools for River Delta Simulation and Analysis," UTIG Discussion Hour, April 13, 2021. <a href="https://www.youtube.com/watch?v=wFDxGKvnxpo">https://www.youtube.com/watch?v=wFDxGKvnxpo</a>
+</font>

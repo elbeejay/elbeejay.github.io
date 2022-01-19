@@ -37,3 +37,10 @@ Currently the project is being developed by
 <font size="3">
 Moodie, A. J., Hariharan, J., Barefoot, E., & Passalacqua, P. (2021). <i>pyDeltaRCM</i>: a flexible numerical delta model. Journal of Open Source Software, 6(64), 3398. <a href="https://doi.org/10.21105/joss.03398">https://doi.org/10.21105/joss.03398</a>
 </font>
+
+### In Other Media
+---
+
+<font size="3">
+"Building Modern Tools for River Delta Simulation and Analysis," UTIG Discussion Hour, April 13, 2021. <a href="https://www.youtube.com/watch?v=wFDxGKvnxpo">https://www.youtube.com/watch?v=wFDxGKvnxpo</a>
+</font>

@@ -25,6 +25,8 @@ research:
         url: /research/delta-metrics
       - title: "Graph Extraction with RivGraph"
         url: /research/graphs
+      - title: "Error in Graph Flux Estimates"
+        url: /research/graphflux
       #- title: "Effect of Embankments on Deltas"
       #  url: /research/polders
       #- title: "Effect of Sea Level Rise on Subsurface Connectivity"

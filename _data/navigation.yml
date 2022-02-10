@@ -53,6 +53,8 @@ tidbits:
         url: /tidbits/rpibramble
       - title: "Basics of Git"
         url: /tidbits/git-basics
+      - title: "Visualizing My Runs"
+        url: /tidbits/run-viz
 
 advice-sidebar:
   - title: "Advice By Jay"
@@ -77,3 +79,5 @@ advice-sidebar:
         url: /advice/2022-01-28
       - title: "2022-02-04"
         url: /advice/2022-02-04
+      - title: "2022-02-10"
+        url: /advice/2022-02-10

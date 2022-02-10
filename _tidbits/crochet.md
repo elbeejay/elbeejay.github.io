@@ -41,6 +41,12 @@ also crocheted countless hats, scarves, and finger-less gloves.
 
 &nbsp;
 
+| ![Slippers](/assets/images/crochet/slippers.jpg) |
+|:--:|
+| Pair of slippers, labeled L and R to help the wearer put them on the correct foot! |
+
+&nbsp;
+
 Section logo courtesy of [the craft chop](http://www.thecraftchop.com/), a
 website that offers license-free SVG images.
 

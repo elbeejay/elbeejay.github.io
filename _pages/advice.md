@@ -1,7 +1,7 @@
 ---
 layout: posts
-title: "Advice by Jay"
-excerpt: "Advice by Jay"
+title: "Hey Jay"
+excerpt: "Hey Jay"
 author_profile: true
 read_time: true
 comments: true

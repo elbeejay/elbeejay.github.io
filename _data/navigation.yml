@@ -8,7 +8,7 @@ main:
     url: /tidbits/
   - title: "Contact"
     url: /contact/
-  - title: "Advice"
+  - title: "Hey Jay"
     url: /advice/
 
 
@@ -57,7 +57,7 @@ tidbits:
         url: /tidbits/run-viz
 
 advice-sidebar:
-  - title: "Advice By Jay"
+  - title: "Hey Jay"
     children:
       - title: "2021-12-01"
         url: /advice/2021-12-01
@@ -87,3 +87,5 @@ advice-sidebar:
         url: /advice/2022-03-11
       - title: "2022-03-20"
         url: /advice/2022-03-20
+      - title: "2022-04-05"
+        url: /advice/2022-04-05

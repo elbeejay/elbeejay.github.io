@@ -23,7 +23,7 @@ on the [matplotlib](https://matplotlib.org/), [numpy](https://numpy.org/),
 At the end of the Python processing, the individual frames for the animation
 were turned into a gif using [ffmpeg](https://ffmpeg.org/).
 The codes used to generate this visualization are available on GitHub in the
-[StravaActivityVisualizer](add requirements.txt) repository.
+[StravaActivityVisualizer](https://github.com/elbeejay/StravaActivityVisualizer) repository.
 
 | ![Jan. Runs](/assets/images/runs/janruns.gif) |
 |:--:|

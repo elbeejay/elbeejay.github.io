@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-23T16:07:56-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jayaram Hariharan</title><subtitle>Jayaram Hariharan's personal website.</subtitle><author><name>Jayaram Hariharan</name></author><entry><title type="html">2022-05-23</title><link href="http://localhost:4000/advice/2022-05-23" rel="alternate" type="text/html" title="2022-05-23" /><published>2022-05-23T00:00:00-04:00</published><updated>2022-05-23T00:00:00-04:00</updated><id>http://localhost:4000/advice/advice</id><content type="html" xml:base="http://localhost:4000/advice/2022-05-23">&lt;p&gt;Advice given on May 23, 2022.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-06-01T14:03:47-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jayaram Hariharan</title><subtitle>Jayaram Hariharan's personal website.</subtitle><author><name>Jayaram Hariharan</name></author><entry><title type="html">2022-06-01</title><link href="http://localhost:4000/advice/2022-06-01" rel="alternate" type="text/html" title="2022-06-01" /><published>2022-06-01T00:00:00-04:00</published><updated>2022-06-01T00:00:00-04:00</updated><id>http://localhost:4000/advice/advice</id><content type="html" xml:base="http://localhost:4000/advice/2022-06-01">&lt;p&gt;Advice given on June 1, 2022.&lt;/p&gt;
+
+&lt;h2 id=&quot;coworker-competition&quot;&gt;Coworker Competition&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hey Jay,&lt;/p&gt;
+
+  &lt;p&gt;We have an exercise competition at work based on tracking the amount of time
+people work out. Our company is global, so the various offices compete with
+each other. These competitions are generally evaluated on a month-by-month
+basis where for each month, your office is competing with another one to 
+exercise more. My problem is a pretty straightforward one, my office keeps
+losing! At first I wasn’t bothered, because I figured it is just a casual
+office contest, and we’ll win some and lose some over the course of a few
+months. But this hasn’t happened. Instead, we just keep losing over and over.
+The competitions have been going on for 6 months and our record is 0-6. Is 
+there a way I can (politely) get my coworkers motivated to compete and to win
+in this inter-office competition?&lt;/p&gt;
+
+  &lt;p&gt;Competitive Colleague&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Competitive,&lt;/p&gt;
+
+&lt;p&gt;Well now, at least you’re willing to admit you are competitive. It’s clear that
+you must be much more competitive than most folks at your office. I think it’s
+going to be tough to go around and get your colleagues to exercise more for the
+purposes of winning these little inter-office contests. Most people will see 
+them as fun competitions, but nothing to really think about or care too deeply
+about. I think for you, it’d be a better use of your competitive drive to find
+another environment within which you can go out and win. You should check and
+see if your city has intramural sports leagues, there you may be able to find
+a set of teammates that cares much more about winning. On the office side, 
+maybe you can reach out to the organizer of these competitions to see if they
+can also create an individual leaderboard across all offices. That way you’d 
+be able to compete as hard as you want, without being frustrated with the
+performance of your office as a whole.&lt;/p&gt;
+
+&lt;p&gt;Jay&lt;/p&gt;
+
+&lt;h2 id=&quot;mid-day-gym-day&quot;&gt;Mid-Day-Gym-Day&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hey Jay,&lt;/p&gt;
+
+  &lt;p&gt;I’ve found a gym near my office that I really enjoy working out at. I’ve also
+learned that it is least crowded mid-day, and I’m lucky enough to have a job
+where I can duck out for an hour in the middle of the afternoon to get a 
+workout in. Do you think I have to shower at the gym before returning to the
+office? It can be such a hassle, but I suspect it would be poor form on my
+part to hang out at my desk for a few hours all sweaty. Let me know what you
+think, thanks!&lt;/p&gt;
+
+  &lt;p&gt;Sweaty&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Sweaty,&lt;/p&gt;
+
+&lt;p&gt;You know what the right answer is here. You’ve got to shower before returning
+to the office. It’s both unprofessional and simply rude to your coworkers
+and colleagues who have to share the office-space with you. Take the extra 5
+or 10 minutes and shower after your workout.&lt;/p&gt;
+
+&lt;p&gt;Jay&lt;/p&gt;</content><author><name>Jayaram Hariharan</name></author><category term="advice" /><category term="Advice" /><category term="Work" /><category term="Relationships" /><category term="Exercise" /><category term="Personal Hygiene" /><summary type="html">Advice given on June 1, 2022.</summary></entry><entry><title type="html">2022-05-23</title><link href="http://localhost:4000/advice/2022-05-23" rel="alternate" type="text/html" title="2022-05-23" /><published>2022-05-23T00:00:00-04:00</published><updated>2022-05-23T00:00:00-04:00</updated><id>http://localhost:4000/advice/advice</id><content type="html" xml:base="http://localhost:4000/advice/2022-05-23">&lt;p&gt;Advice given on May 23, 2022.&lt;/p&gt;
 
 &lt;h2 id=&quot;coworker-confusion&quot;&gt;Coworker Confusion&lt;/h2&gt;
 
@@ -715,87 +778,4 @@ while, and I would suggest trying their almond and oat milks as well as the
 soy.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Thanks for the tip! Hopefully last week’s advice seeker sees this.&lt;/p&gt;</content><author><name>Jayaram Hariharan</name></author><category term="advice" /><category term="Advice" /><category term="Motivation" /><category term="Health" /><category term="Well-Being" /><summary type="html">Advice given on February 4, 2022.</summary></entry><entry><title type="html">2022-01-28</title><link href="http://localhost:4000/advice/2022-01-28" rel="alternate" type="text/html" title="2022-01-28" /><published>2022-01-28T00:00:00-05:00</published><updated>2022-01-28T00:00:00-05:00</updated><id>http://localhost:4000/advice/advice</id><content type="html" xml:base="http://localhost:4000/advice/2022-01-28">&lt;p&gt;Advice given on January 28, 2022.&lt;/p&gt;
-
-&lt;h2 id=&quot;avocado-pizza&quot;&gt;Avocado Pizza?&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Hey Jay,&lt;/p&gt;
-
-  &lt;p&gt;I went over a friend’s house to make some pizza and hang out. Naturally we
-had to discuss pizza toppings. He proposed we top our pizza with avocado of
-all things. This sounded absurd to me, so I figured he was joking and I went
-along with it - “yeah dude totally” (or something like that). When he actually
-grabbed an avocado and started slicing it up, I realized it wasn’t a joke. Now
-I like an avocado as much as the next person, or so I thought, but I wasn’t
-prepared to have it on pizza. When I told my friend I was joking, and I’d never
-eat avocado on pizza he got offended. I told him avocado on pizza was
-ridiculous, and this didn’t go over well. Kinda put a damper on our chill
-evening, so I’d like to smooth this over.
-How can I convince my friend I’m not a pizza topping snob?&lt;/p&gt;
-
-  &lt;p&gt;Thank you,&lt;/p&gt;
-
-  &lt;p&gt;Papa Guac&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Papa Guac,&lt;/p&gt;
-
-&lt;p&gt;Well you’ve gotten yourself into a cheesy mess here. I can confess to having
-eaten pizza with avocado as a topping before. I will say that I have not
-repeated the experience since, as the avocado didn’t improve the quality of my
-slice.&lt;/p&gt;
-
-&lt;p&gt;My experiences with avocado on pizza aside, I don’t know how big of a problem
-this is. If your friend seems overly touchy after this experience, maybe you
-should open up about one of your weird food habits, we’ve all got them after
-all. But I am optimistic that a genuine apology will resolve this issue.
-Maybe offer to bring over guacamole and chips to snack on the next time you
-both have a pizza night.&lt;/p&gt;
-
-&lt;p&gt;Humbly yours,&lt;/p&gt;
-
-&lt;p&gt;Jay&lt;/p&gt;
-
-&lt;h2 id=&quot;oat-milk&quot;&gt;Oat Milk&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Hi Jay,&lt;/p&gt;
-
-  &lt;p&gt;I’ve recently found out that I am lactose intolerant and would like to switch
-from dairy milk to an alternative product. I have heard a lot about oat milk
-in recent years, and was wondering - what do you think of oat milk? Do you have
-a favorite brand?&lt;/p&gt;
-
-  &lt;p&gt;Thank you,&lt;/p&gt;
-
-  &lt;p&gt;Lactase-less&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Lactase-less,&lt;/p&gt;
-
-&lt;p&gt;If you are unhappy with this recent turn of events, I would like to reassure
-you that plenty of people are lactose intolerant or lactose sensitive, so you
-definitely have company in that regard. I’ll briefly mention that oat milk is
-not the only kind of dairy milk alternative, so you aren’t stuck with oat milk
-if you find you dislike the taste.&lt;/p&gt;
-
-&lt;p&gt;But anyway, to your question, I have indeed had oat milk and I find it to be
-quite nice. I’ve had it with coffee, and I’ve also sipped plain oat milk.
-However, I am far from an oat milk connoisseur; I think I’ve only had 2
-different brands of the stuff. The first oat milk I had was produced by Oatly,
-one of the leaders in the oat milk space. I tried them based on a friend’s
-recommendation, and I do think that Oatly is the GOATly (greatest of all time).
-Their oat milk is capable of frothing up nicely in a coffee, and has a similar
-body and consistency to dairy milk. As I’m located in central Texas at the
-moment, I have also tried the HEB (a regional grocery chain) brand oat milk.
-Honestly, no complains about their version either. I believe Oatly is available
-across Europe and the US at this point, so I definitely recommend trying them
-out. If you’ve got access to HEB, I’d say you should try theirs too.&lt;/p&gt;
-
-&lt;p&gt;Anyway, I’m off to contact Oatly about doing some marketing for them with this
-new “Oatly the GOATly” slogan I’ve coined. Hope this was slightly helpful!&lt;/p&gt;
-
-&lt;p&gt;Cheers,&lt;/p&gt;
-
-&lt;p&gt;Jay&lt;/p&gt;</content><author><name>Jayaram Hariharan</name></author><category term="advice" /><category term="Advice" /><category term="Interpersonal Relationships" /><category term="Health" /><category term="Well-Being" /><summary type="html">Advice given on January 28, 2022.</summary></entry></feed>
+&lt;p&gt;Thanks for the tip! Hopefully last week’s advice seeker sees this.&lt;/p&gt;</content><author><name>Jayaram Hariharan</name></author><category term="advice" /><category term="Advice" /><category term="Motivation" /><category term="Health" /><category term="Well-Being" /><summary type="html">Advice given on February 4, 2022.</summary></entry></feed>

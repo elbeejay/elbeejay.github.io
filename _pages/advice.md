@@ -11,7 +11,7 @@ classes: wide
 permalink: /advice/
 ---
 
-Think *Ask Amy* meets *Dear Prudance* meets *Ask Jeeves*, that's right,
+Think *Ask Amy* meets *Dear Prudence* meets *Ask Jeeves*, that's right,
 here is my advice column! To submit questions you can use
 [this anonymous form](https://forms.gle/r7evNwJvdsti7p9n8) or you can email
 them to

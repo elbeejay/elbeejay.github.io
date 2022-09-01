@@ -20,7 +20,7 @@ To learn more about the background behind the method, how to install the package
 and how to use it, please refer to the project's
 [documentation](https://passah2o.github.io/dorado/).
 If you wish to look at the
-code directly, the source code is available at our [GitHub repository](https://github.com/passaH2O/dorado). Current developers of *dorado* include fellow UT graduate student
+code directly, the source code is available at our [GitHub repository](https://github.com/passaH2O/dorado). Current developers of *dorado* include
 [Kyle Wright](https://scholar.google.com/citations?user=Vk-wkRYAAAAJ&hl=en&oi=ao)
 and myself.
 

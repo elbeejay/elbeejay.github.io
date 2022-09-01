@@ -17,6 +17,13 @@ The measurement of channel flow within all channels of a river delta is not feas
 |:--:|
 | Networks analyzed in this study. |
 
+### Publications
+---
+
+<font size="3">
+Hariharan, J., Piliouras, A., Schwenk, J., & Passalacqua, P. (2022). Width-Based Discharge Partitioning in Distributary Networks: How Right We Are. Geophysical Research Letters, 49, e2022GL097897. <a href="https://doi.org/10.1029/2022GL097897">https://doi.org/10.1029/2022GL097897</a>
+</font>
+
 ### In Other Media
 ---
 

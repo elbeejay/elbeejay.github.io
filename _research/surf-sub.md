@@ -18,6 +18,10 @@ River deltas are depositional environments, and remnants of past surface configu
 ---
 
 <font size="3">
+Hariharan, J., Passalacqua, P., Xu, Z., Michael, H. A., Steel, E., Chadwick, A., Paola, C., & Moodie, A. J. (2022), Modeling the Dynamic Response of River Deltas to Sea-Level Rise Acceleration, Journal of Geophysical Research: Earth Surface, 127, e2022JF006762, <a href="https://doi.org/10.1029/2022JF006762">https://doi.org/10.1029/2022JF006762}</a>
+</font>
+<br>
+<font size="3">
 Xu, Z., Hariharan, J., Passalacqua, P., Steel, E., Chadwick, A., Paola, C., & Michael, H. A. (2022). Effects of Geologic Setting on Contaminant Transport in Deltaic Aquifers. Water Resources Research, 58, e2022WR031943. <a href="https://doi.org/10.1029/2022WR031943">https://doi.org/10.1029/2022WR031943</a>
 </font>
 <br>

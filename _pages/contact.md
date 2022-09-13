@@ -6,4 +6,4 @@ author_profile: true
 ---
 
 I can be reached via email at
-[jayaram.hariharan@utexas.edu](mailto:jayaram.hariharan@utexas.edu)
+[jayaram.hariharan@gmail.com](mailto:jayaram.hariharan@gmail.com)

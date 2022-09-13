@@ -6,4 +6,4 @@ author_profile: true
 permalink: /about/
 ---
 
-Hello I'm Jayaram aka Jay. I'm currently a graduate student interested in computational geomorphology, more specifically I am looking into the growth and evolution of river deltas and how humans will impact these landscapes in the future.
+Hello I'm Jayaram aka Jay. I'm currently working as a physical scientist at the USGS.

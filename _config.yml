@@ -85,13 +85,13 @@ analytics:
 author:
   name             : "Jayaram Hariharan"
   avatar           : "/assets/images/author.png"
-  bio              : "Civil Engineering PhD student at The University of Texas at Austin"
+  bio              : "Scientist at USGS"
   location         :
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jayaram.hariharan@utexas.edu
+      url: mailto:jayaram.hariharan@gmail.com
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=Iz0P-B0AAAAJ&hl=en"
@@ -116,7 +116,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jayaram.hariharan@utexas.edu
+      url: mailto:jayaram.hariharan@gmail.com
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=Iz0P-B0AAAAJ&hl=en"
@@ -313,9 +313,12 @@ start-delay: 100
 delete-delay: 5000
 
 events:
+- image: "/assets/images/timeline/USGSLogo.png"
+  date: "September 2022 - Present"
+  description: "Physical Scientist at USGS"
 - image: "/assets/images/timeline/RGB_CockrellSchoolLogo.png"
-  date: "May 2019 - Present"
-  description: "PhD Student, Civil Engineering, The University of Texas at Austin"
+  date: "May 2019 - August 2022"
+  description: "PhD, Civil Engineering, The University of Texas at Austin"
 - image: "/assets/images/timeline/LANL_logo.png"
   date: "January 2021 - June 2021"
   description: Graduate Intern at Los Alamos National Laboratory

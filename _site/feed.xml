@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-25T10:32:59-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jayaram Hariharan</title><subtitle>Jayaram Hariharan's personal website.</subtitle><author><name>Jayaram Hariharan</name></author><entry><title type="html">2022-09-25</title><link href="http://localhost:4000/advice/2022-09-25" rel="alternate" type="text/html" title="2022-09-25" /><published>2022-09-25T00:00:00-04:00</published><updated>2022-09-25T00:00:00-04:00</updated><id>http://localhost:4000/advice/advice</id><content type="html" xml:base="http://localhost:4000/advice/2022-09-25">&lt;p&gt;Advice given on September 25, 2022.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-08T14:44:09-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Jayaram Hariharan</title><subtitle>Jayaram Hariharan's personal website.</subtitle><author><name>Jayaram Hariharan</name></author><entry><title type="html">2022-10-08</title><link href="http://localhost:4000/advice/2022-10-08" rel="alternate" type="text/html" title="2022-10-08" /><published>2022-10-08T00:00:00-04:00</published><updated>2022-10-08T00:00:00-04:00</updated><id>http://localhost:4000/advice/advice</id><content type="html" xml:base="http://localhost:4000/advice/2022-10-08">&lt;p&gt;Advice given on October 8, 2022.&lt;/p&gt;
+
+&lt;h2 id=&quot;screen-less-windows&quot;&gt;Screen-less Windows&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hey Jay,&lt;/p&gt;
+
+  &lt;p&gt;I have recently bought a pair of external monitors I wanted to connect to
+my laptop. However once I plugged them in, I couldn’t figure out how to
+get my Windows to show up on the external screens as well as my laptop. I’m
+hoping you have some advice to offer on how I might resolve my screen
+problem.&lt;/p&gt;
+
+  &lt;p&gt;Thanks,&lt;/p&gt;
+
+  &lt;p&gt;Wannabe-Techie&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Techie,&lt;/p&gt;
+
+&lt;p&gt;I’m glad you decided to purchase some external monitors; they can really
+improve the laptop experience. Your message is relatively sparse in terms of
+details, but I can try to take some guesses as to what the problem(s) might be.
+The first thing I wonder is whether or not your laptop can support two external
+monitors. There is a chance the video card in your laptop (which is likely
+integrated with another component) is not powerful enough to support two
+external monitors and can only support one. So you might want to try connecting
+just one external monitor first, before trying two. Once you are just trying
+to connect one external screen, if you still have trouble, you should try
+different cables if you have them. There are many different types of connectors
+often used by monitors ranging from HDMI, DisplayPort, DVI, VGA, and newer ones
+might even support USB-C. By trying different cables and ports, you will learn
+whether the problem is with a cable or an individual port, or if it is more
+serious and related to the laptop or monitor itself. Since you have two
+monitors, you can try each one with a given cable to help rule out the chance
+that the monitor itself has a problem. If you have a second laptop or other
+computer around, you could also try using that, to help isolate the source
+of the problem.&lt;/p&gt;
+
+&lt;p&gt;Good luck,&lt;/p&gt;
+
+&lt;p&gt;Jay&lt;/p&gt;</content><author><name>Jayaram Hariharan</name></author><category term="advice" /><category term="Advice" /><category term="Well-Being" /><category term="Happiness" /><category term="Environment" /><summary type="html">Advice given on October 8, 2022.</summary></entry><entry><title type="html">2022-09-25</title><link href="http://localhost:4000/advice/2022-09-25" rel="alternate" type="text/html" title="2022-09-25" /><published>2022-09-25T00:00:00-04:00</published><updated>2022-09-25T00:00:00-04:00</updated><id>http://localhost:4000/advice/advice</id><content type="html" xml:base="http://localhost:4000/advice/2022-09-25">&lt;p&gt;Advice given on September 25, 2022.&lt;/p&gt;
 
 &lt;h2 id=&quot;screen-less-windows&quot;&gt;Screen-less Windows&lt;/h2&gt;
 
@@ -438,84 +479,4 @@ to the office. It’s both unprofessional and simply rude to your coworkers
 and colleagues who have to share the office-space with you. Take the extra 5
 or 10 minutes and shower after your workout.&lt;/p&gt;
 
-&lt;p&gt;Jay&lt;/p&gt;</content><author><name>Jayaram Hariharan</name></author><category term="advice" /><category term="Advice" /><category term="Work" /><category term="Relationships" /><category term="Exercise" /><category term="Personal Hygiene" /><summary type="html">Advice given on June 1, 2022.</summary></entry><entry><title type="html">2022-05-23</title><link href="http://localhost:4000/advice/2022-05-23" rel="alternate" type="text/html" title="2022-05-23" /><published>2022-05-23T00:00:00-04:00</published><updated>2022-05-23T00:00:00-04:00</updated><id>http://localhost:4000/advice/advice</id><content type="html" xml:base="http://localhost:4000/advice/2022-05-23">&lt;p&gt;Advice given on May 23, 2022.&lt;/p&gt;
-
-&lt;h2 id=&quot;coworker-confusion&quot;&gt;Coworker Confusion&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Hey Jay,&lt;/p&gt;
-
-  &lt;p&gt;I’ve got a workplace situation I’m hoping you can help me with. I’ve been at
-my latest job for about a month, and I’m having trouble befriending one of
-my coworkers. We don’t work directly together, but we do sit in the same
-room, along with a number of other people. At first, I thought he just didn’t
-like me, but I’ve found I get along with everyone else in our office. I’ve
-been trying to be as friendly as I can be by offering to grab lunch, trying
-to chat when we happen to be at the water cooler together, and inviting him
-to join me and our other co-workers when we get together after work. He is
-never outright rude to me, but his answers are usually pretty curt, and our
-conversations, as a result, are very short. Do you have any advice for me?
-I am not sure if this guy doesn’t like me, or if he’s just not very sociable.
-What should I do? How can I get this co-worker of mine to open up and be
-my friend?&lt;/p&gt;
-
-  &lt;p&gt;Confounded Colleague&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Confounded,&lt;/p&gt;
-
-&lt;p&gt;You sound like you have such good intentions, I’m sorry you haven’t been able
-to befriend this coworker of yours. It sounds like you’ve done some
-self-reflection to see if you are the problem. Since you’re friends with many
-of your other coworkers, I agree that you are probably not someone incapable
-of making friends. It could be that this coworker of yours just doesn’t want
-to make any friends in the office. Maybe they are thinking about work when you
-try to chat with them at the water cooler, and so their mind isn’t on your
-conversation and they give you short replies. I think there are a million
-possible reasons this person isn’t warming up to you. The real question I have
-for you, is why does this bother you so much? It sounds like you’ve got a
-group of your colleagues that you hang out with and are friends with. I’d
-suggest you leave this guy alone, and let him do his own thing, and you can
-talk to and hang out with your friends. You’ve made it clear you are willing
-to be friendly with him, so he should have gotten the hint that you’re happy to
-talk to or spend time with him if he so chooses. I think you have done all you
-can do, and now it is up to your coworker to decide to engage in this
-friendship if he wants one. Don’t stress about it, not everyone gets along as
-fast friends.&lt;/p&gt;
-
-&lt;p&gt;Relax!&lt;/p&gt;
-
-&lt;p&gt;Jay&lt;/p&gt;
-
-&lt;h2 id=&quot;colleague-crush&quot;&gt;Colleague Crush&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Hey Jay,&lt;/p&gt;
-
-  &lt;p&gt;So we had a new person join my company a few months ago, and he’s such a
-great guy. I didn’t mean to, but I totally have a crush on him, and I’ve
-tried to drop him hints by timing my coffee breaks to line up with his, and
-joining him for lunch outside. The problem is, he doesn’t seem to have a
-clue! I don’t want to do anything inappropriate or create an awkward
-situation at work, so what should I do now? Can I confess my true feelings
-for this guy?&lt;/p&gt;
-
-  &lt;p&gt;Crushin’&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Crushin’,&lt;/p&gt;
-
-&lt;p&gt;Sounds like you’re in a bit of a pickle for sure. I think you know what I’m
-going to tell you, but it just isn’t what you want to hear. The best thing
-you can do for your career, and to maintain your workplace environment, is to
-drop it and stop pursuing this guy, no matter how careful you have been so far.
-For all you know, you may be putting this guy in a very awkward position. He
-might not be as clueless as you think, but doesn’t know how to politely reject
-your advances and is instead trying to ignore them. If you can’t drop this, I
-think you can certainly tell him how you feel. But if you go down that route
-I think you should just be direct, and find a way to have that conversation
-that isn’t awkward, regardless of what his answer is.&lt;/p&gt;
-
-&lt;p&gt;Good luck,&lt;/p&gt;
-
-&lt;p&gt;Jay&lt;/p&gt;</content><author><name>Jayaram Hariharan</name></author><category term="advice" /><category term="Advice" /><category term="Work" /><category term="Relationships" /><category term="Romance" /><summary type="html">Advice given on May 23, 2022.</summary></entry></feed>
+&lt;p&gt;Jay&lt;/p&gt;</content><author><name>Jayaram Hariharan</name></author><category term="advice" /><category term="Advice" /><category term="Work" /><category term="Relationships" /><category term="Exercise" /><category term="Personal Hygiene" /><summary type="html">Advice given on June 1, 2022.</summary></entry></feed>

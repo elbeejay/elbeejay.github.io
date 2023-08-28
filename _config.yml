@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Jayaram Hariharan"
   avatar           : "/assets/images/author.png"
-  bio              : "Scientist at USGS"
+  bio              :
   location         :
   email            :
   links:
@@ -314,25 +314,25 @@ delete-delay: 5000
 
 events:
 - image: "/assets/images/timeline/USGSLogo.png"
-  date: "September 2022 - Present"
+  date: "Sep 2022 - Aug 2023"
   description: "Physical Scientist at USGS"
 - image: "/assets/images/timeline/RGB_CockrellSchoolLogo.png"
-  date: "May 2019 - August 2022"
+  date: "May 2019 - Aug 2022"
   description: "PhD, Civil Engineering, The University of Texas at Austin"
 - image: "/assets/images/timeline/LANL_logo.png"
-  date: "January 2021 - June 2021"
+  date: "Jan 2021 - Jun 2021"
   description: Graduate Intern at Los Alamos National Laboratory
 - image: "/assets/images/timeline/RGB_CockrellSchoolLogo.png"
-  date: "August 2017 - May 2019"
+  date: "Aug 2017 - May 2019"
   description: "Master of Science, Civil Engineering, The University of Texas at Austin"
 - image: "/assets/images/timeline/GLW-Logo-White-Red-150x64.png"
-  date: "January 2015 - July 2017"
+  date: "Jan 2015 - Jul 2017"
   description: "Civil Engineer at Gutschick, Little and Weber, P.A., Burtonsville, MD"
 - image: "/assets/images/timeline/UMD_ENG_Left_Color_web.png"
-  date: "August 2011 - December 2014"
+  date: "Aug 2011 - Dec 2014"
   description: "Bachelor of Science, Civil and Environmental Engineering, University of Maryland, College Park"
 - image: "/assets/images/timeline/Ardsley_Panthers_Logo.jpg"
-  date: "June 2011"
+  date: "Jun 2011"
   description: "Graduated from Ardsley High School, Ardsley, NY"
 
 timeline-img: ""

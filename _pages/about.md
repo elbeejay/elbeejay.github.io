@@ -6,4 +6,4 @@ author_profile: true
 permalink: /about/
 ---
 
-Hello I'm Jayaram aka Jay. I'm currently working as a physical scientist at the USGS.
+Hello I'm Jayaram aka Jay.

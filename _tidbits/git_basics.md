@@ -10,7 +10,7 @@ header:
 I have been asked on multiple occasions by different people for help or advice
 on how to use Git and GitHub to contribute to open-source software projects.
 Here I will attempt to provide a **bare-bones** example of the Git+GitHub
-workflow using the [dorado]({% link _research/particles.md %})
+workflow using the [dorado]({% link _projects/particles.md %})
 [GitHub repository](https://github.com/passaH2O/dorado).
 This 7-step guide assumes you have a [GitHub](https://github.com/) account and
 have [git](https://git-scm.com/) available locally via a command-line

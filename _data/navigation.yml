@@ -2,31 +2,31 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Research"
-    url: /research/
+  - title: "Projects"
+    url: /projects/
   - title: "Tidbits"
     url: /tidbits/
   - title: "Contact"
     url: /contact/
 
 
-research:
-  - title: Research
+projects:
+  - title: Projects
     children:
       - title: "Delta Surface-Subsurface"
-        url: /research/surf-sub
+        url: /projects/surf-sub
       - title: "Particle Simulation with dorado"
-        url: /research/particles
+        url: /projects/particles
       - title: "Modernizing DeltaRCM"
-        url: /research/pydeltarcm
+        url: /projects/pydeltarcm
       - title: "Delta Metrics"
-        url: /research/delta-metrics
+        url: /projects/delta-metrics
       - title: "Graph Extraction with RivGraph"
-        url: /research/graphs
+        url: /projects/graphs
       - title: "Error in Graph Flux Estimates"
-        url: /research/graphflux
+        url: /projects/graphflux
       - title: "Material Transport in Deltas"
-        url: /research/material-transport
+        url: /projects/material-transport
 
 tidbits:
   - title: Tidbits
@@ -53,3 +53,5 @@ tidbits:
         url: /tidbits/run-viz
       - title: "Ticket to Ride: DC"
         url: /tidbits/ttr-dc
+      - title: "Seal Tracking Animation"
+        url: /tidbits/seal-animation

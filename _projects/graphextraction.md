@@ -1,6 +1,6 @@
 ---
 title:  "Graph Extraction with *RivGraph*"
-permalink: /research/graphs/
+permalink: /projects/graphs/
 excerpt: "Extracting graphs from binary channel masks"
 header:
     #image: /assets/images/construction.png

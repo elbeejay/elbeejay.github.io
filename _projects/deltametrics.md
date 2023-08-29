@@ -1,6 +1,6 @@
 ---
 title: "Delta Metrics"
-permalink: /research/delta-metrics/
+permalink: /projects/delta-metrics/
 excerpt: "Standardizing tools for delta metric analysis"
 header:
     #image: /assets/images/construction.png
@@ -10,9 +10,9 @@ header:
 *DeltaMetrics* is a Python package actively under development that aims to
 provide an analysis toolbox for studying river deltas.
 While *DeltaMetrics* is being developed with
-[*pyDeltaRCM*]({% link _research/pydeltarcm.md %}) in mind, it is
+[*pyDeltaRCM*]({% link _projects/pydeltarcm.md %}) in mind, it is
 meant to be a general purpose tool that can be applied to experimental as well
-as remotely sensed data. We gave a presentation introducing both [*pyDeltaRCM*]({% link _research/pydeltarcm.md %}) and *DeltaMetrics* at a UTIG Discussion Hour in April 2021, you can watch a recording [here](https://www.youtube.com/watch?v=wFDxGKvnxpo).
+as remotely sensed data. We gave a presentation introducing both [*pyDeltaRCM*]({% link _projects/pydeltarcm.md %}) and *DeltaMetrics* at a UTIG Discussion Hour in April 2021, you can watch a recording [here](https://www.youtube.com/watch?v=wFDxGKvnxpo).
 
 | ![Data cube, slicing the cube, and creating a stratigraphic cube](/assets/images/metrics/cube.png) |
 |:--:|

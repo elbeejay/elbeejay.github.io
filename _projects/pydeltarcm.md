@@ -1,6 +1,6 @@
 ---
 title:  "Modernizing DeltaRCM"
-permalink: /research/pydeltarcm/
+permalink: /projects/pydeltarcm/
 excerpt: "Making DeltaRCM modern and modular"
 header:
     #image: /assets/images/pydeltarcm/logo.png

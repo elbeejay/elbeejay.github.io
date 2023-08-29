@@ -1,6 +1,6 @@
 ---
 title:  "Transport in Deltas"
-permalink: /research/material-transport/
+permalink: /projects/material-transport/
 excerpt: "Modeling the impact of human modifications on material transport"
 header:
     #image: /assets/images/surfsub/logo.png
@@ -16,7 +16,7 @@ We simulate the transport of material through numerically simulated river deltas
 Human modifications reduce the total area visited by passive particles and alter the amount of time spent within the delta relative to natural conditions.
 This work can help us understand how future construction may impact land building or ecosystem restoration projects.
 
-This project utilized the [*pyDeltaRCM*]({% link _research/pydeltarcm.md %}) and [*dorado*]({% link _research/particles.md %}) models, as well as the [*ANUGA*](https://github.com/anuga-community/anuga_core) hydrodynamic model, and was conducted with help from a number of colleagues at The University of Texas at Austin.
+This project utilized the [*pyDeltaRCM*]({% link _projects/pydeltarcm.md %}) and [*dorado*]({% link _projects/particles.md %}) models, as well as the [*ANUGA*](https://github.com/anuga-community/anuga_core) hydrodynamic model, and was conducted with help from a number of colleagues at The University of Texas at Austin.
 
 | ![Example particle tracks](/assets/images/materialtransport/SI_particle_tracks_topos.png) |
 |:--:|

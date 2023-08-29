@@ -10,7 +10,7 @@ header:
 The availability of relatively cheap computing resources via
 [Raspberry Pis](https://www.raspberrypi.org/), combined with the faster,
 flexible, and open-source version of DeltaRCM that we'd just developed
-([*pyDeltaRCM*]({% link _research/pydeltarcm.md %})) piqued my curiosity
+([*pyDeltaRCM*]({% link _projects/pydeltarcm.md %})) piqued my curiosity
 about networking and managing a small cluster of computing resources.
 
 I ended up acquiring a set of Raspberry Pi 4s; my current set up is below.

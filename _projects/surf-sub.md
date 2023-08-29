@@ -1,6 +1,6 @@
 ---
 title:  "Delta Surface-Subsurface"
-permalink: /research/surf-sub/
+permalink: /projects/surf-sub/
 excerpt: "Relating surface information to subsurface form"
 header:
     #image: /assets/images/surfsub/logo.png

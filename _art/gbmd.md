@@ -1,6 +1,6 @@
 ---
 title: "Surface Water Detection"
-permalink: /tidbits/surfwater/
+permalink: /art/surfwater/
 excerpt: "Remote sensing to objectively identify surface water."
 header:
     #image: /assets/images/construction.png

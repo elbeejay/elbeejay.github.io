@@ -1,8 +1,8 @@
 ---
-title: "Tidbits"
+title: "Art"
 layout: collection
-collection: tidbits
-permalink: /tidbits/
+collection: art
+permalink: /art/
 author_profile: true
 entries_layout: grid
 classes: wide

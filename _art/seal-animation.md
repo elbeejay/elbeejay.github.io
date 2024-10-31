@@ -1,6 +1,6 @@
 ---
 title: "Animating Seal Tracker Data"
-permalink: /tidbits/seal-animation/
+permalink: /art/seal-animation/
 excerpt: "Animating seal tracking data"
 header:
     #image: /assets/images/construction.png

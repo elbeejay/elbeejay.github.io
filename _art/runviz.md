@@ -1,6 +1,6 @@
 ---
 title: "Visualizing My Runs"
-permalink: /tidbits/run-viz/
+permalink: /art/run-viz/
 excerpt: "Animating the 31 runs I took in Jan. 2022"
 header:
     #image: /assets/images/construction.png

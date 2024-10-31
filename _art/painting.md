@@ -1,6 +1,6 @@
 ---
 title: "Painting"
-permalink: /tidbits/painting/
+permalink: /art/painting/
 excerpt: "Some artwork I've made"
 header:
     #image: /assets/images/construction.png

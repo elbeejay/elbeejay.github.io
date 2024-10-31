@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Tidbits"
-    url: /tidbits/
+  - title: "Art"
+    url: /art/
   - title: "Contact"
     url: /contact/
 
@@ -28,30 +28,30 @@ projects:
       - title: "Material Transport in Deltas"
         url: /projects/material-transport
 
-tidbits:
-  - title: Tidbits
+art:
+  - title: Art
     children:
       - title: "Crochet"
-        url: /tidbits/crochet
+        url: /art/crochet
       - title: "Painting"
-        url: /tidbits/painting
+        url: /art/painting
       - title: "Python + Google Earth Engine"
-        url: /tidbits/pygee
+        url: /art/pygee
       - title: "Building This Website"
-        url: /tidbits/this-website
+        url: /art/this-website
       - title: "Combining Model Meshes"
-        url: /tidbits/mesh
+        url: /art/mesh
       - title: "Surface Water Detection"
-        url: /tidbits/surfwater
+        url: /art/surfwater
       - title: "Austin Prop. B Election Map"
-        url: /tidbits/atx-map
+        url: /art/atx-map
       - title: "Raspberry Pi Bramble"
-        url: /tidbits/rpibramble
+        url: /art/rpibramble
       - title: "Basics of Git"
-        url: /tidbits/git-basics
+        url: /art/git-basics
       - title: "Visualizing My Runs"
-        url: /tidbits/run-viz
+        url: /art/run-viz
       - title: "Ticket to Ride: DC"
-        url: /tidbits/ttr-dc
+        url: /art/ttr-dc
       - title: "Seal Tracking Animation"
-        url: /tidbits/seal-animation
+        url: /art/seal-animation

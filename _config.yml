@@ -269,7 +269,7 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  tidbits:
+  art:
     output: true
     permalink: /:collection/:path/
 
@@ -288,10 +288,10 @@ defaults:
       comments: false
       sidebar:
         nav: "projects"
-  # _tidbits
+  # _art
   - scope:
       path: ""
-      type: tidbits
+      type: art
     values:
       layout: single
       read_time: false
@@ -299,7 +299,7 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "tidbits"
+        nav: "art"
 
 # Mike (from https://github.com/sestus/mikemylonakis.com)
 typed_lines:
@@ -313,27 +313,15 @@ start-delay: 100
 delete-delay: 5000
 
 events:
-- image: "/assets/images/timeline/USGSLogo.png"
-  date: "Sep 2022 - Aug 2023"
-  description: "Physical Scientist at USGS"
 - image: "/assets/images/timeline/RGB_CockrellSchoolLogo.png"
-  date: "May 2019 - Aug 2022"
+  date: "Aug 2022"
   description: "PhD, Civil Engineering, The University of Texas at Austin"
-- image: "/assets/images/timeline/LANL_logo.png"
-  date: "Jan 2021 - Jun 2021"
-  description: Graduate Intern at Los Alamos National Laboratory
 - image: "/assets/images/timeline/RGB_CockrellSchoolLogo.png"
-  date: "Aug 2017 - May 2019"
+  date: "May 2019"
   description: "Master of Science, Civil Engineering, The University of Texas at Austin"
-- image: "/assets/images/timeline/GLW-Logo-White-Red-150x64.png"
-  date: "Jan 2015 - Jul 2017"
-  description: "Civil Engineer at Gutschick, Little and Weber, P.A., Burtonsville, MD"
 - image: "/assets/images/timeline/UMD_ENG_Left_Color_web.png"
-  date: "Aug 2011 - Dec 2014"
+  date: "Dec 2014"
   description: "Bachelor of Science, Civil and Environmental Engineering, University of Maryland, College Park"
-- image: "/assets/images/timeline/Ardsley_Panthers_Logo.jpg"
-  date: "Jun 2011"
-  description: "Graduated from Ardsley High School, Ardsley, NY"
 
 timeline-img: ""
 

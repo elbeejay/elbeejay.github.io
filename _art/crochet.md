@@ -1,6 +1,6 @@
 ---
 title: "Crochet"
-permalink: /tidbits/crochet/
+permalink: /art/crochet/
 excerpt: "Handmade crochet pieces"
 header:
     #image: /assets/images/construction.png

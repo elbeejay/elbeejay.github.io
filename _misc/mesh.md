@@ -1,6 +1,6 @@
 ---
 title: "Combining Model Meshes"
-permalink: /art/mesh/
+permalink: /misc/mesh/
 excerpt: "Coupling mesh generators and Landlab"
 header:
     #image: /assets/images/construction.png

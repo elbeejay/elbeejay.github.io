@@ -1,6 +1,6 @@
 ---
 title: "Basics of Git+GitHub"
-permalink: /art/git-basics/
+permalink: /misc/git-basics/
 excerpt: "Quick Guide to Using Git and GitHub"
 header:
     #image: /assets/images/construction.png

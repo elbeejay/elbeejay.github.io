@@ -1,6 +1,6 @@
 ---
 title: "Ticket to Ride: DC"
-permalink: /art/ttr-dc/
+permalink: /misc/ttr-dc/
 excerpt: "Creating a custom Ticket to Ride map"
 header:
     #image: /assets/images/construction.png

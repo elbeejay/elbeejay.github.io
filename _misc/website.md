@@ -1,6 +1,6 @@
 ---
 title: "Building This Website"
-permalink: /art/this-website/
+permalink: /misc/this-website/
 excerpt: "An overview of how this website was built"
 header:
     #image: /assets/images/construction.png

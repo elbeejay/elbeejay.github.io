@@ -1,6 +1,6 @@
 ---
 title: "Python + Google Earth Engine"
-permalink: /art/pygee/
+permalink: /misc/pygee/
 excerpt: "py_gee_tools: A Small Python Library for Automated Google Earth Engine Scene Acquisition."
 header:
     #image: /assets/images/construction.png

@@ -1,6 +1,6 @@
 ---
 title: "A Bramble of Raspberry Pis"
-permalink: /art/rpibramble/
+permalink: /misc/rpibramble/
 excerpt: "Distributed computing with Raspberry Pis"
 header:
     #image: /assets/images/construction.png

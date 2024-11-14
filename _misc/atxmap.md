@@ -1,6 +1,6 @@
 ---
 title: "Austin Prop. B Election Map"
-permalink: /art/atx-map/
+permalink: /misc/atx-map/
 excerpt: "Semi-Automated Mapping"
 header:
     #image: /assets/images/construction.png

@@ -1,8 +1,8 @@
 ---
-title: "Art"
+title: "Misc."
 layout: collection
-collection: art
-permalink: /art/
+collection: misc
+permalink: /misc/
 author_profile: true
 entries_layout: grid
 classes: wide

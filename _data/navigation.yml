@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Art"
-    url: /art/
+  - title: "Misc."
+    url: /misc/
   - title: "Contact"
     url: /contact/
 
@@ -28,30 +28,30 @@ projects:
       - title: "Material Transport in Deltas"
         url: /projects/material-transport
 
-art:
-  - title: Art
+misc:
+  - title: Misc.
     children:
       - title: "Crochet"
-        url: /art/crochet
+        url: /misc/crochet
       - title: "Painting"
-        url: /art/painting
+        url: /misc/painting
       - title: "Python + Google Earth Engine"
-        url: /art/pygee
+        url: /misc/pygee
       - title: "Building This Website"
-        url: /art/this-website
+        url: /misc/this-website
       - title: "Combining Model Meshes"
-        url: /art/mesh
+        url: /misc/mesh
       - title: "Surface Water Detection"
-        url: /art/surfwater
+        url: /misc/surfwater
       - title: "Austin Prop. B Election Map"
-        url: /art/atx-map
+        url: /misc/atx-map
       - title: "Raspberry Pi Bramble"
-        url: /art/rpibramble
+        url: /misc/rpibramble
       - title: "Basics of Git"
-        url: /art/git-basics
+        url: /misc/git-basics
       - title: "Visualizing My Runs"
-        url: /art/run-viz
+        url: /misc/run-viz
       - title: "Ticket to Ride: DC"
-        url: /art/ttr-dc
+        url: /misc/ttr-dc
       - title: "Seal Tracking Animation"
-        url: /art/seal-animation
+        url: /misc/seal-animation

@@ -13,45 +13,55 @@ main:
 projects:
   - title: Projects
     children:
-      - title: "Delta Surface-Subsurface"
-        url: /projects/surf-sub
-      - title: "Particle Simulation with dorado"
-        url: /projects/particles
-      - title: "Modernizing DeltaRCM"
-        url: /projects/pydeltarcm
+      - title: "USGS Data Retrieval"
+        url: /projects/data-retrieval
       - title: "Delta Metrics"
         url: /projects/delta-metrics
       - title: "Graph Extraction with RivGraph"
         url: /projects/graphs
       - title: "Error in Graph Flux Estimates"
         url: /projects/graphflux
+      - title: "USGS Groundwater Analysis"
+        url: /projects/gwatlas
+      - title: "USGS Hydrologic Data Analysis"
+        url: /projects/hyswap
       - title: "Material Transport in Deltas"
         url: /projects/material-transport
+      - title: "Particle Simulation with dorado"
+        url: /projects/particles
+      - title: "Modernizing DeltaRCM"
+        url: /projects/pydeltarcm
+      - title: "Estimating River Depth"
+        url: /projects/riverdepth
+      - title: "Delta Surface-Subsurface"
+        url: /projects/surf-sub
+      - title: "Synthesizing SWIR Data"
+        url: /projects/synthswir
 
 misc:
   - title: Misc.
     children:
+      - title: "Austin Prop. B Election Map"
+        url: /misc/atx-map
       - title: "Crochet"
         url: /misc/crochet
+      - title: "Surface Water Detection"
+        url: /misc/surfwater
+      - title: "Basics of Git"
+        url: /misc/git-basics
+      - title: "Combining Model Meshes"
+        url: /misc/mesh
       - title: "Painting"
         url: /misc/painting
       - title: "Python + Google Earth Engine"
         url: /misc/pygee
-      - title: "Building This Website"
-        url: /misc/this-website
-      - title: "Combining Model Meshes"
-        url: /misc/mesh
-      - title: "Surface Water Detection"
-        url: /misc/surfwater
-      - title: "Austin Prop. B Election Map"
-        url: /misc/atx-map
       - title: "Raspberry Pi Bramble"
         url: /misc/rpibramble
-      - title: "Basics of Git"
-        url: /misc/git-basics
       - title: "Visualizing My Runs"
         url: /misc/run-viz
-      - title: "Ticket to Ride: DC"
-        url: /misc/ttr-dc
       - title: "Seal Tracking Animation"
         url: /misc/seal-animation
+      - title: "Ticket to Ride: DC"
+        url: /misc/ttr-dc
+      - title: "Building This Website"
+        url: /misc/this-website

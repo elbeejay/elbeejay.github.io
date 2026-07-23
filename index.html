@@ -1,7 +1,206 @@
----
-layout: typed
-author_profile: false
-permalink: /
-sidebar:
-    nav: "main"
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jayaram Hariharan</title>
+  <meta name="description" content="Geospatial Data Scientist. PhD in Civil Engineering from UT Austin. River delta enthusiast.">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:site_name" content="Jayaram Hariharan">
+  <meta property="og:title" content="Jayaram Hariharan">
+  <meta property="og:description" content="Geospatial Data Scientist. PhD in Civil Engineering from UT Austin. River delta enthusiast.">
+  <meta property="og:image" content="https://jayaramhariharan.com/assets/images/author.png">
+  <meta property="og:url" content="https://jayaramhariharan.com">
+
+  <!-- Twitter -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Jayaram Hariharan">
+  <meta name="twitter:description" content="Geospatial Data Scientist. PhD in Civil Engineering from UT Austin. River delta enthusiast.">
+  <meta name="twitter:image" content="https://jayaramhariharan.com/assets/images/author.png">
+
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Jayaram Hariharan",
+    "url": "https://jayaramhariharan.com/",
+    "sameAs": [
+      "https://www.linkedin.com/in/jayaram-hariharan/",
+      "https://github.com/elbeejay",
+      "https://scholar.google.com/citations?user=Iz0P-B0AAAAJ&hl=en"
+    ]
+  }
+  </script>
+
+  <link rel="canonical" href="https://jayaramhariharan.com/">
+
+  <!-- Favicons -->
+  <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/apple-touch-icon.png">
+  <link rel="manifest" href="/assets/images/site.webmanifest">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ═══ Navigation ═══ -->
+  <nav class="nav" id="nav" aria-label="Main navigation">
+    <a href="/" class="nav__name" aria-label="Home">JH</a>
+    <div class="nav__links">
+      <a href="#work" class="nav__link">Work</a>
+      <a href="#contact" class="nav__link">Contact</a>
+      <a href="/assets/files/jhariharan_cv.pdf" class="nav__link" target="_blank" rel="noopener">CV ↗</a>
+    </div>
+  </nav>
+
+  <!-- ═══ Hero ═══ -->
+  <section class="hero" id="hero">
+    <div class="hero__content">
+      <p class="hero__label">Geospatial Data Scientist</p>
+      <h1 class="hero__title">Jayaram<br>Hariharan</h1>
+      <p class="hero__bio">
+        PhD in Civil Engineering from The University of Texas at Austin.<br>
+        River delta enthusiast.
+      </p>
+      <div class="hero__links">
+        <a href="https://github.com/elbeejay" class="hero__link" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://scholar.google.com/citations?user=Iz0P-B0AAAAJ&hl=en" class="hero__link" target="_blank" rel="noopener">Google Scholar</a>
+        <a href="https://www.linkedin.com/in/jayaram-hariharan/" class="hero__link" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="https://x.com/HariharanJay" class="hero__link" target="_blank" rel="noopener">X</a>
+        <a href="https://fosstodon.org/@elbeejay" class="hero__link" target="_blank" rel="me noopener">Mastodon</a>
+      </div>
+    </div>
+    <div class="hero__scroll" aria-hidden="true">
+      <span class="hero__scroll-text">Scroll</span>
+      <div class="hero__scroll-line"></div>
+    </div>
+  </section>
+
+  <!-- ═══ Selected Work ═══ -->
+  <section class="section" id="work">
+    <h2 class="section__heading" data-animate>Selected Work</h2>
+    <p class="section__subheading" data-animate>Open-source tools and research in geomorphology, hydrology, and remote sensing.</p>
+
+    <div class="projects">
+
+      <!-- dorado -->
+      <article class="project" data-animate>
+        <span class="project__tag">Python · JOSS 2020</span>
+        <h3 class="project__title">dorado</h3>
+        <p class="project__desc">Passive particle transport simulation for shallow-water flows. Designed to interface with landscape-scale hydrodynamic models.</p>
+        <div class="project__links">
+          <a href="https://github.com/passaH2O/dorado" class="project__link" target="_blank" rel="noopener">GitHub ↗</a>
+          <a href="https://doi.org/10.21105/joss.02585" class="project__link" target="_blank" rel="noopener">Paper ↗</a>
+        </div>
+      </article>
+
+      <!-- pyDeltaRCM -->
+      <article class="project" data-animate>
+        <span class="project__tag">Python · JOSS 2021</span>
+        <h3 class="project__title">pyDeltaRCM</h3>
+        <p class="project__desc">A modular, tested, and reproducible Python implementation of the reduced-complexity river delta model DeltaRCM. Customizable via subclassing and hooks.</p>
+        <div class="project__links">
+          <a href="https://github.com/DeltaRCM/pyDeltaRCM" class="project__link" target="_blank" rel="noopener">GitHub ↗</a>
+          <a href="https://doi.org/10.21105/joss.03398" class="project__link" target="_blank" rel="noopener">Paper ↗</a>
+          <a href="https://deltarcm.org/pyDeltaRCM/" class="project__link" target="_blank" rel="noopener">Docs ↗</a>
+        </div>
+      </article>
+
+      <!-- RivGraph -->
+      <article class="project" data-animate>
+        <span class="project__tag">Python · JOSS 2021</span>
+        <h3 class="project__title">RivGraph</h3>
+        <p class="project__desc">Automatic extraction and analysis of river and delta channel network topology from binary water masks. Computes flow directions, widths, and graph metrics.</p>
+        <div class="project__links">
+          <a href="https://github.com/jonschwenk/RivGraph" class="project__link" target="_blank" rel="noopener">GitHub ↗</a>
+          <a href="https://doi.org/10.21105/joss.02952" class="project__link" target="_blank" rel="noopener">Paper ↗</a>
+        </div>
+      </article>
+
+      <!-- Discharge Partitioning -->
+      <article class="project" data-animate>
+        <span class="project__tag">Remote Sensing · GRL 2022</span>
+        <h3 class="project__title">Flux Partitioning in Delta Networks</h3>
+        <p class="project__desc">Quantifying the accuracy of width-based discharge partitioning from remote sensing imagery in distributary channel networks, validated against field observations.</p>
+        <div class="project__links">
+          <a href="https://doi.org/10.1029/2022GL097897" class="project__link" target="_blank" rel="noopener">Paper ↗</a>
+        </div>
+      </article>
+
+      <!-- Delta Surface-Subsurface -->
+      <article class="project" data-animate>
+        <span class="project__tag">Research · WRR / JGR / Basin Research</span>
+        <h3 class="project__title">Delta Surface‑Subsurface</h3>
+        <p class="project__desc">Research connecting river delta surface morphology with subsurface stratigraphy, sandbody connectivity, groundwater transport, and response to accelerated sea-level rise.</p>
+        <div class="project__links">
+          <a href="https://doi.org/10.1029/2020WR029282" class="project__link" target="_blank" rel="noopener">Hariharan et al. 2021 ↗</a>
+          <a href="https://doi.org/10.1029/2022JF006762" class="project__link" target="_blank" rel="noopener">Hariharan et al. 2022 ↗</a>
+          <a href="https://doi.org/10.1029/2020WR029281" class="project__link" target="_blank" rel="noopener">Xu et al. 2021 ↗</a>
+          <a href="https://doi.org/10.1029/2022WR031943" class="project__link" target="_blank" rel="noopener">Xu et al. 2022 ↗</a>
+          <a href="https://doi.org/10.1111/bre.12668" class="project__link" target="_blank" rel="noopener">Steel et al. 2022 ↗</a>
+        </div>
+      </article>
+
+      <!-- Material Transport in Deltas -->
+      <article class="project" data-animate>
+        <span class="project__tag">Research · Earth Surf. Dynam. 2023</span>
+        <h3 class="project__title">Transport in Deltas</h3>
+        <p class="project__desc">Numerical modeling of how human modifications — embankments, polders, and dredging — alter material transport pathways through river deltas.</p>
+        <div class="project__links">
+          <a href="https://doi.org/10.5194/esurf-11-405-2023" class="project__link" target="_blank" rel="noopener">Paper ↗</a>
+        </div>
+      </article>
+
+      <!-- USGS dataretrieval -->
+      <article class="project" data-animate>
+        <span class="project__tag">R · Python · Julia · USGS · Water 2023</span>
+        <h3 class="project__title">dataretrieval</h3>
+        <p class="project__desc">Suite of open-source packages for programmatic retrieval of USGS water data. Available across three languages for the broadest community reach.</p>
+        <div class="project__links">
+          <a href="https://github.com/DOI-USGS/dataretrieval-python" class="project__link" target="_blank" rel="noopener">Python ↗</a>
+          <a href="https://github.com/DOI-USGS/dataRetrieval" class="project__link" target="_blank" rel="noopener">R ↗</a>
+          <a href="https://github.com/DOI-USGS/DataRetrieval.jl" class="project__link" target="_blank" rel="noopener">Julia ↗</a>
+          <a href="https://www.mdpi.com/2073-4441/15/24/4236" class="project__link" target="_blank" rel="noopener">Paper ↗</a>
+        </div>
+      </article>
+
+      <!-- hyswap -->
+      <article class="project" data-animate>
+        <span class="project__tag">Python · USGS Software Release</span>
+        <h3 class="project__title">hyswap</h3>
+        <p class="project__desc">Python package for calculating and visualizing hydrologic statistics — raster hydrographs, streamflow duration curves, and more — from USGS water data.</p>
+        <div class="project__links">
+          <a href="https://github.com/DOI-USGS/hyswap" class="project__link" target="_blank" rel="noopener">GitHub ↗</a>
+          <a href="https://www.usgs.gov/software/hyswap" class="project__link" target="_blank" rel="noopener">USGS ↗</a>
+        </div>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- ═══ Contact ═══ -->
+  <section class="contact" id="contact" data-animate>
+    <h2 class="contact__heading">Get in Touch</h2>
+    <a href="mailto:jayaram.hariharan@gmail.com" class="contact__email">jayaram.hariharan@gmail.com</a>
+  </section>
+
+  <!-- ═══ Footer ═══ -->
+  <footer class="footer">
+    <p class="footer__text">© 2025 Jayaram Hariharan</p>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>

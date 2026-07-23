@@ -1,24 +1,66 @@
----
-layout: default
----
-
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
-    text-align: center;
-  }
-  h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
-  }
-</style>
-
-<div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>404 — Jayaram Hariharan</title>
+  <meta name="description" content="Page not found.">
+  <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Inter:wght@400&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: #0a0a0a;
+      color: #e8e6e1;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      min-height: 100vh;
+      min-height: 100dvh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 2rem;
+      -webkit-font-smoothing: antialiased;
+    }
+    .error { max-width: 480px; }
+    .error__code {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(4rem, 12vw, 8rem);
+      font-weight: 700;
+      line-height: 1;
+      margin-bottom: 1.5rem;
+      color: #d4a853;
+    }
+    .error__message {
+      font-size: 1rem;
+      color: #7a7870;
+      line-height: 1.6;
+      margin-bottom: 2.5rem;
+    }
+    .error__link {
+      font-size: 0.75rem;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.18em;
+      color: #7a7870;
+      text-decoration: none;
+      padding-bottom: 3px;
+      border-bottom: 1px solid #1a1a1a;
+      transition: color 0.3s ease, border-color 0.3s ease;
+    }
+    .error__link:hover {
+      color: #d4a853;
+      border-color: #d4a853;
+    }
+  </style>
+</head>
+<body>
+  <div class="error">
+    <h1 class="error__code">404</h1>
+    <p class="error__message">This page doesn't exist. It may have been moved during a recent site redesign.</p>
+    <a href="/" class="error__link">Back to Home ↗</a>
+  </div>
+</body>
+</html>
